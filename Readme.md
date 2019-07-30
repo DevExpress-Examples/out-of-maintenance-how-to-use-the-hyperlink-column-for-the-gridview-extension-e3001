@@ -8,7 +8,7 @@
 <!-- default file list end -->
 # How to use the HyperLink column for the GridView extension
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e3001)**
+**[[Run Online]](https://codecentral.devexpress.com/e3001/)**
 <!-- run online end -->
 
 
