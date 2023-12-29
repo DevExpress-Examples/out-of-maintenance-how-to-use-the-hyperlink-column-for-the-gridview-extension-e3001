@@ -1,8 +1,3 @@
-<!-- default badges list -->
-![](https://img.shields.io/endpoint?url=https://codecentral.devexpress.com/api/v1/VersionRange/128552000/14.1.3%2B)
-[![](https://img.shields.io/badge/Open_in_DevExpress_Support_Center-FF7200?style=flat-square&logo=DevExpress&logoColor=white)](https://supportcenter.devexpress.com/ticket/details/E3001)
-[![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
-<!-- default badges end -->
 <!-- default file list -->
 *Files to look at*:
 
@@ -12,9 +7,6 @@
 * [Index.aspx](./CS/Views/Home/Index.aspx) (VB: [Index.aspx](./VB/Views/Home/Index.aspx))
 <!-- default file list end -->
 # How to use the HyperLink column for the GridView extension
-<!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e3001/)**
-<!-- run online end -->
 
 
 <p>The example demonstrates how to create a hyperlink column for the GridView extension. In the example, the <a href="http://msdn.microsoft.com/en-us/library/system.web.mvc.urlhelper.action.aspx"><u>UrlHelper.Action</u></a> helper method is used to create a corresponding Navigate Url format string (<a href="http://documentation.devexpress.com/#AspNet/DevExpressWebASPxEditorsHyperLinkProperties_NavigateUrlFormatStringtopic"><u>HyperLinkProperties.NavigateUrlFormatString</u></a>).</p>
